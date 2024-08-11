@@ -14,6 +14,7 @@
 		5B88DBD22C692A0F003644EE /* TestConfirmationDialogView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B88DBD12C692A0F003644EE /* TestConfirmationDialogView.swift */; };
 		5B88DBD42C692C37003644EE /* TestOnChangeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B88DBD32C692C37003644EE /* TestOnChangeView.swift */; };
 		5B88DBD62C694547003644EE /* TestCoreImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B88DBD52C694547003644EE /* TestCoreImageView.swift */; };
+		5B88DBD82C694B95003644EE /* TestContentUnavailableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B88DBD72C694B95003644EE /* TestContentUnavailableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		5B88DBD12C692A0F003644EE /* TestConfirmationDialogView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestConfirmationDialogView.swift; sourceTree = "<group>"; };
 		5B88DBD32C692C37003644EE /* TestOnChangeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestOnChangeView.swift; sourceTree = "<group>"; };
 		5B88DBD52C694547003644EE /* TestCoreImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestCoreImageView.swift; sourceTree = "<group>"; };
+		5B88DBD72C694B95003644EE /* TestContentUnavailableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestContentUnavailableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				5B88DBD12C692A0F003644EE /* TestConfirmationDialogView.swift */,
 				5B88DBD32C692C37003644EE /* TestOnChangeView.swift */,
 				5B88DBD52C694547003644EE /* TestCoreImageView.swift */,
+				5B88DBD72C694B95003644EE /* TestContentUnavailableView.swift */,
 				5B88DBC72C686DAF003644EE /* Assets.xcassets */,
 				5B88DBC92C686DAF003644EE /* Preview Content */,
 			);
@@ -148,6 +151,7 @@
 			files = (
 				5B88DBC62C686DAE003644EE /* ContentView.swift in Sources */,
 				5B88DBD22C692A0F003644EE /* TestConfirmationDialogView.swift in Sources */,
+				5B88DBD82C694B95003644EE /* TestContentUnavailableView.swift in Sources */,
 				5B88DBD62C694547003644EE /* TestCoreImageView.swift in Sources */,
 				5B88DBC42C686DAE003644EE /* InstafilterApp.swift in Sources */,
 				5B88DBD42C692C37003644EE /* TestOnChangeView.swift in Sources */,
