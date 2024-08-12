@@ -17,6 +17,7 @@
 		5B88DBD82C694B95003644EE /* TestContentUnavailableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B88DBD72C694B95003644EE /* TestContentUnavailableView.swift */; };
 		5B88DBDA2C698C0C003644EE /* TestPhotosPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B88DBD92C698C0C003644EE /* TestPhotosPickerView.swift */; };
 		5B88DBDC2C699721003644EE /* TestShareLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B88DBDB2C699721003644EE /* TestShareLinkView.swift */; };
+		5B88DBDE2C69C06F003644EE /* TestRequestReviewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B88DBDD2C69C06F003644EE /* TestRequestReviewView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		5B88DBD72C694B95003644EE /* TestContentUnavailableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestContentUnavailableView.swift; sourceTree = "<group>"; };
 		5B88DBD92C698C0C003644EE /* TestPhotosPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestPhotosPickerView.swift; sourceTree = "<group>"; };
 		5B88DBDB2C699721003644EE /* TestShareLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestShareLinkView.swift; sourceTree = "<group>"; };
+		5B88DBDD2C69C06F003644EE /* TestRequestReviewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestRequestReviewView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				5B88DBD72C694B95003644EE /* TestContentUnavailableView.swift */,
 				5B88DBD92C698C0C003644EE /* TestPhotosPickerView.swift */,
 				5B88DBDB2C699721003644EE /* TestShareLinkView.swift */,
+				5B88DBDD2C69C06F003644EE /* TestRequestReviewView.swift */,
 				5B88DBC72C686DAF003644EE /* Assets.xcassets */,
 				5B88DBC92C686DAF003644EE /* Preview Content */,
 			);
@@ -163,6 +166,7 @@
 				5B88DBDA2C698C0C003644EE /* TestPhotosPickerView.swift in Sources */,
 				5B88DBDC2C699721003644EE /* TestShareLinkView.swift in Sources */,
 				5B88DBD42C692C37003644EE /* TestOnChangeView.swift in Sources */,
+				5B88DBDE2C69C06F003644EE /* TestRequestReviewView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
