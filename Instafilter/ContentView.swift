@@ -45,10 +45,12 @@ struct ContentView: View {
                     Text("Intensity")
                     Slider(value: $filterItensity)
                         .onChange(of: filterItensity, applyFilter)
+                        .disabled(processedImage == nil ? true : false)
                 }
                 
                 HStack {
                     Button("Change Filter", action: changeFilter)
+                        .disabled(processedImage == nil ? true : false)
                     
                     Spacer()
                     
